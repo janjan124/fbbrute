@@ -1,1 +1,4 @@
-# fb-cracker-V.2
+#BruteFb Version 2
+#Version Cracker ^_^
+
+##Sama juga BRUTEFORCE
